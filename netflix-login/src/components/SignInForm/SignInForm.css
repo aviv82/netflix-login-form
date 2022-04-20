@@ -1,4 +1,4 @@
-.login-form-container {
+/* .login-form-container {
   width: 100%;
   padding: 2% 3%;
   margin: 0;
@@ -10,7 +10,7 @@
   background-color: linear-gradient(top top, #121212 65%);
   height: 65%;
   border-radius: 10px;
-}
+} */
 
 input {
   display: flex;
