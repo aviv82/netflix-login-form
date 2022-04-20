@@ -1,12 +1,10 @@
 import "./App.css";
-import { SubHeader } from "./components/SubHeader/SubHeader";
+import { LogIn } from "./components/LogIn/LogIn";
 
 function App() {
   return (
     <header>
-      <div className="login-form-container">
-        <SubHeader />
-      </div>
+      <LogIn />
     </header>
   );
 }
